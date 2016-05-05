@@ -1,6 +1,6 @@
 name: ratingsrantsandraves
 favicon: null
-layout_spectrum: 0.24999
+layout_spectrum: 1
 typography_spectrum: 0.8892169783357531
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefefe'
-    - '#0f0d1a'
-    - '#3f3734'
-    - '#dad9d4'
-    - '#909694'
+    - '#030200'
+    - '#ffffff'
+    - '#a97021'
+    - '#dbb65e'
+    - '#ffe489'
   brandStrength: 1
-  lightness: 0.75
+  lightness: 0.5
   saturation: 0
-  rhythmicContrast: 0.1491412604227662
+  rhythmicContrast: 0.5
 purpose: []
