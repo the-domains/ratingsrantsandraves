@@ -4,7 +4,8 @@ at__context: 'http://schema.org'
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6bd5e30-cb4b-4fb7-823b-4dcd434a4514.jpg
 title: ''
-dateModified: '2016-08-03T21:31:22.916Z'
+datePublished: '2016-08-03T21:33:15.231Z'
+dateModified: '2016-08-03T21:33:06.417Z'
 publisher:
   name: The-grid-user-content
   domain: the-grid-user-content.s3-us-west-2.amazonaws.com
@@ -15,7 +16,6 @@ description: >-
   Obviously more of the continued lies from Hillary killary and cnn, funny what
   panning out demonstrates!
 via: {}
-datePublished: '2016-08-03T21:31:31.511Z'
 starred: false
 sourcePath: >-
   _posts/2016-08-03-obviously-more-of-the-continued-lies-from-hillary-killary-an.md
