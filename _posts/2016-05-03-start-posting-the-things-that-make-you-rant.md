@@ -1,21 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-05-06T03:47:47.609Z'
-dateModified: '2016-05-06T03:46:56.996Z'
-title: ''
-author: []
+datePublished: '2016-08-26T13:47:47.928Z'
 sourcePath: _posts/2016-05-03-start-posting-the-things-that-make-you-rant.md
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-26T13:47:47.524Z'
+title: ''
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: true
 url: start-posting-the-things-that-make-you-rant/index.html
 _type: Article
