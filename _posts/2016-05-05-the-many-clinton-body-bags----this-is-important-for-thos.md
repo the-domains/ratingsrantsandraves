@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: No virus found in this message.
-datePublished: '2016-05-05T15:16:23.154Z'
-dateModified: '2016-05-05T15:15:44.758Z'
+description: ' 1- James McDougal - Convicted Whitewater partner of the Clintons who died of an apparent heart attack, while in solitary confinement. He was a key witness in Ken Starr''s investigation.'
+datePublished: '2016-08-26T13:50:05.548Z'
+dateModified: '2016-05-05T15:16:30.808Z'
 title: ' THE MANY CLINTON BODY BAGS . . . This is important for those who are just now becoming aware and concerned about your federal government and those who have been running it. Some of us remember clearly. The Clinton Body Bags ~ Purely Coincidental? Someone recently reminded me of this list. I had forgotten how long it is. Therefore, this is a quick refresher course, lest we forget what has happened to many "friends" and associates of Bill and Hillary Clinton.'
 author: []
+sourcePath: _posts/2016-05-05-the-many-clinton-body-bags----this-is-important-for-thos.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-the-many-clinton-body-bags----this-is-important-for-thos.md
 url: the-many-clinton-body-bags----this-is-important-for-thos/index.html
 _type: Article
 
