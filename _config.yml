@@ -1,19 +1,4 @@
-name: ratingsrantsandraves
-favicon: null
-layout_spectrum: 0.24299
 typography_spectrum: 0.04959
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#040404'
@@ -25,4 +10,22 @@ color:
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24299
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ratingsrantsandraves
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: >-
+  New England Shirt Company talking about Donald Trump Clothes being made
+  somewhere outside the USA.....the whole story
 purpose: []
